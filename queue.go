@@ -7,8 +7,8 @@
 package bull
 
 import (
-	"github.com/hellosekai/bull-golang/internal/luaScripts"
-	"github.com/hellosekai/bull-golang/internal/redisAction"
+	"github.com/nura191/bull-golang/internal/luaScripts"
+	"github.com/nura191/bull-golang/internal/redisAction"
 
 	"github.com/go-redis/redis/v8"
 	"github.com/google/uuid"

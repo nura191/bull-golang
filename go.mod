@@ -1,4 +1,4 @@
-module github.com/hellosekai/bull-golang
+module github.com/nura191/bull-golang
 
 go 1.19
 

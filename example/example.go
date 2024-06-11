@@ -12,7 +12,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/hellosekai/bull-golang"
+	"github.com/nura191/bull-golang"
 
 	"github.com/go-redis/redis/v8"
 	"github.com/google/uuid"
